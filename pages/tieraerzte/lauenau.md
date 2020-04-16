@@ -10,7 +10,7 @@ Coppenbrügger Landstr. 31
     
 Tel: 05043-2233
     
-E-Mail: <labor@tierkliniken-rinteln.de>
+E-Mail: tierarztpraxis-lauenau@magenta.de
 
 www.tierarztpraxis-lauenau.de
 
