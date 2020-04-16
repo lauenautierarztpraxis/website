@@ -1,23 +1,29 @@
-title: Michael Kirchner & Dr. Sylke Kölling
+title: Dr. Silvia Fecht & Dr. Stefanie Pohl
 
-# Tierärztliche Klinik für Kleintiere
+# Tierarztpraxis Lauenau
 
-    Konrad-Adenauer-Str.30
-    31737 Rinteln
-    Tel: 05751-5766
-    Fax: 05751-963788
+Dr. Silvia Fecht & Dr. Stefanie Pohl
 
+Coppenbrügger Landstr. 31
+    
+31867 Lauenau
+    
+Tel: 05043-2233
+    
 E-Mail: <labor@tierkliniken-rinteln.de>
+
+www.tierarztpraxis-lauenau.de
+
 
 Sprechzeiten:
 ---------------
 
 |  Mo   |  Di   |  Mi   |  Do   |  Fr   | Sa    |     So                               |
 | ----- | ----- | ----- | ----- | ----- | ----- |------------------------------------- |
-| 11-12 | 11-12 |       | 11-12 | 11-12 | 11-12 |[siehe Notdienst](../notdienst.html)  |
-| 17-19 | 17-19 |       | 17-19 | 17-19 |       |[siehe Notdienst](../notdienst.html)  |
+| 10-12 | 10-12 | 10-12 | 10-12 | 10-12 | 10-12 |[siehe Notdienst](../notdienst.html) -
+| 17-19 | 17-19 |   -   | 17-19 | 17-19 |   -   |[siehe Notdienst](../notdienst.html)  |
 
 
 Termine außerhalb der Sprechzeiten nach Vereinbarung.
 
-Wir bieten Ihnen **JEDERZEIT einen Notdienst** an.
+
