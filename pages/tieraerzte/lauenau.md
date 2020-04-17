@@ -12,7 +12,7 @@ Tel: 05043-2233
     
 E-Mail: tierarztpraxis-lauenau@magenta.de
 
-<http://www.tierarztpraxis-lauenau.de>
+Website: <http://www.tierarztpraxis-lauenau.de>
 
 
 Sprechzeiten:
